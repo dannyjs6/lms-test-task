@@ -1,0 +1,59 @@
+{
+  "profile": {
+    "name": "Абрамова Екатерина",
+    "sex": "female",
+    "telegramLink": "https://t.me/example",
+    "vibeLink": "https://t.me/example",
+    "whatsappLink": "https://t.me/example",
+    "status": 1,
+    "phoneNumber": "8-900-000-00-00",
+    "parentPhoneNumber": "8-900-000-00-00",
+    "birthDate": "954177712000",
+    "address": "г. Краснодар, ул. Советская 24, кв. 208",
+    "avatarLink": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
+  },
+  "documents": [
+    {
+      "id": 1,
+      "type": "Договор",
+      "title": "Договор на заключение",
+      "number": "001",
+      "statusCode": 1,
+      "startedAt": "1679937577000",
+      "endedgAt": "1711559977000",
+      "notifyOnEnding": true,
+      "createTaskOnEnding": false
+    },
+    {
+      "id": 2,
+      "type": "Договор",
+      "title": "Договор на заключение",
+      "number": "002",
+      "statusCode": 2,
+      "startedAt": "1679937577000",
+      "endedgAt": "1711559977000",
+      "notifyOnEnding": true,
+      "createTaskOnEnding": false
+    },
+    {
+      "id": 3,
+      "type": "Справка",
+      "title": "Справочка",
+      "number": "",
+      "startedAt": "1679937577000",
+      "endedgAt": "1711559977000",
+      "notifyOnEnding": true,
+      "createTaskOnEnding": false
+    },
+    {
+      "id": 4,
+      "type": "Другое",
+      "title": "Анкета",
+      "number": "",
+      "startedAt": "1679937577000",
+      "endedgAt": "1711559977000",
+      "notifyOnEnding": true,
+      "createTaskOnEnding": false
+    }
+  ]
+}
