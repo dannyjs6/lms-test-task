@@ -15,10 +15,10 @@
   "documents": [
     {
       "id": 1,
-      "type": "Договор",
-      "title": "Договор на заключение",
+      "type": "contract",
+      "title": "Договор 001",
       "number": "001",
-      "statusCode": 1,
+      "status": "concluded",
       "startedAt": "1679937577000",
       "endedgAt": "1711559977000",
       "notifyOnEnding": true,
@@ -26,10 +26,10 @@
     },
     {
       "id": 2,
-      "type": "Договор",
-      "title": "Договор на заключение",
+      "type": "contract",
+      "title": "Договор 002",
       "number": "002",
-      "statusCode": 2,
+      "status": "terminated",
       "startedAt": "1679937577000",
       "endedgAt": "1711559977000",
       "notifyOnEnding": true,
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "type": "Справка",
+      "type": "certificate",
       "title": "Справочка",
       "number": "",
       "startedAt": "1679937577000",
@@ -47,7 +47,7 @@
     },
     {
       "id": 4,
-      "type": "Другое",
+      "type": "another",
       "title": "Анкета",
       "number": "",
       "startedAt": "1679937577000",
